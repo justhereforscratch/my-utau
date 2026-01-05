@@ -1,0 +1,5 @@
+name=Kairo
+image=Kairo.bmp
+sample=a.wav
+性別:キメラ　年齢:24歳
+好きなもの:フランスパン
